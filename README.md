@@ -46,6 +46,9 @@ Sample	Best Accuracy	Best Kernel	Best C	Best Gamma
 2	0.8997	poly	6.78	0.0081
 ...	...	...	...	...
 10	0.9051	rbf	4.67	0.0127
+
+![image](https://github.com/user-attachments/assets/63b39305-ffb9-443e-96e5-8f0ecd3e1faf)
+
 🔎 Note: The values shown here are illustrative — refer to your result DataFrame for actual outputs.
 
 This table summarizes the best accuracy, along with the corresponding kernel, C, and gamma values found for each of the 10 samples. It highlights how different kernel functions and hyperparameter choices can influence performance.
