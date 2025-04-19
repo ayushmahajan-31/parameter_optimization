@@ -53,6 +53,8 @@ This table summarizes the best accuracy, along with the corresponding kernel, C,
 📈 Learning Curve (Best Model)
 The best-performing model from the result table was selected and used to plot a learning curve. This curve shows how the model's accuracy changes as the size of the training data increases.
 
+![image](https://github.com/user-attachments/assets/cf18b45b-249c-4afd-8dbc-7776f07473c2)
+
 Key Insights:
 Training Accuracy Curve: Indicates how well the model fits the training data. A high value shows good fit.
 
